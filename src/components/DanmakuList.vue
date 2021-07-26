@@ -160,7 +160,7 @@ export default {
 <style lang="scss">
 .danmaku-list {
   flex-grow: 1;
-  width: 40%;
+  width: 15%;
   overflow: hidden;
   scroll-behavior: smooth;
   &.hidden {
